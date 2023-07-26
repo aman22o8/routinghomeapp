@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 25px;
+}
+.leftside {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 700;
+  color: #12022f;
+}
+.list_container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 280px;
+}
+.link_heading {
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 700;
+  color: #12022f;
+}

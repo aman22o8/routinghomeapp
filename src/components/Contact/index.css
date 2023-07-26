@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.contact_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.contact_logo {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 15px;
+}
+.description_contact {
+  font-size: 25px;
+  color: #551e53;
+  font-weight: 700;
+}

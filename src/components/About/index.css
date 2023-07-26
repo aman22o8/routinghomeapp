@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.about_container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.about_logo {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 15px;
+}
+.description_about {
+  font-size: 25px;
+  color: #551e53;
+  font-weight: 700;
+}
+.description_ {
+  font-size: 18px;
+  color: #555555;
+  font-weight: 400;
+}
